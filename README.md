@@ -3,7 +3,7 @@
 based on the original [http.cat](https://github.com/httpcats/http.cat) project, I made some fun ways to interact with the website
 
 ---
-## Trying out
+## Testing the code yourself
 
 1. clone the repo
 
@@ -18,3 +18,5 @@ cd http-cat/python/
 ```txt
 python3 main.py
 ```
+
+---
